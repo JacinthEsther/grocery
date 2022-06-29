@@ -1,3 +1,5 @@
+package com.example.grocery.general.components
+
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.text.KeyboardOptions
 import androidx.compose.material.OutlinedTextField
